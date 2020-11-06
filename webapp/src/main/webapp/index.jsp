@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 
-<h2>Last Deployment with ansible and update.final</h2>
+<h2>Last Deployment with ansible and update.</h2>
 
