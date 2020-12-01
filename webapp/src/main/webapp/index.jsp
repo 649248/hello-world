@@ -1,5 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<h1>DevOps</h1>
 
-<h2>Last Deployment with ansible and update;new updatejk </h2>
+<h2>update </h2>
 
 
